@@ -1,4 +1,4 @@
-ollama
+ollama 
 streamlit
 subprocess-tee
 
