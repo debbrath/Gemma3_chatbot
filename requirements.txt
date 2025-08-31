@@ -1,5 +1,4 @@
 ollama
-gemma3:1b
 streamlit
 subprocess-tee
 
