@@ -87,7 +87,7 @@ Follow instructions at https://ollama.com/docs
 
 ## 📸 Screenshots
 
-![Screenshot](https://github.com/debbrath/DiabetesPrediction/blob/main/image/2025-08-19%2018_11_52-Settings.png)
+![Screenshot](https://github.com/debbrath/Gemma3_chatbot/blob/main/Image/chatbot_imgae1.png)
 
 <br/>
 
