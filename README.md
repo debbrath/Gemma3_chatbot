@@ -87,7 +87,9 @@ Follow instructions at https://ollama.com/docs
 
 ## 📸 Screenshots
 
-![Screenshot](https://github.com/debbrath/Gemma3_chatbot/blob/main/Image/chatbot_imgae1.png)
+![Screenshot](https://github.com/debbrath/Gemma3_chatbot/blob/main/Image/chatbot_imgae2.png)
+![Screenshot](https://github.com/debbrath/Gemma3_chatbot/blob/main/Image/chatbot_imgae3.png)
+![Screenshot](https://github.com/debbrath/Gemma3_chatbot/blob/main/Image/chatbot_imgae4.png)
 
 <br/>
 
